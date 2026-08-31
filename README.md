@@ -91,19 +91,19 @@ An AI-powered system for transforming existing website templates into customized
 
 I believe technology becomes more valuable when more people can participate in building it.
 
-Since 2022, I have been leading and contributing to technology communities through **Women Techmakers Ethiopia, Google Developer Student Clubs, developer communities, workshops, mentorship, and technical events**.
+Since 2022, I have been leading and contributing to technology communities through **Women Techmakers Ethiopia, Google Developer Student Clubs, Google Cloud communities, workshops, mentorship, hackathons, and technical events**.
 
-As a **Women Techmakers Ambassador and Lead**, I have worked on creating opportunities for people to learn, connect, build, and grow in technology. My work has included organizing technical workshops, mentoring learners, facilitating discussions, speaking on panels, and creating spaces where developers and aspiring technologists can collaborate.
+My community work goes beyond hosting events. I **train, mentor, facilitate, and create learning opportunities** for students, developers, and aspiring technologists. I have led technical workshops, delivered cloud and AI learning sessions, mentored learners, supported emerging community leaders, judged hackathons, and spoken on technology panels.
 
-I previously served as a **Google Developer Student Club Lead at HiLCoE**, where I helped revitalize the community and expand its technical activities. My leadership was recognized by community members as a major part of the chapter's growth and development.
+Through **Google Developer Student Clubs**, I worked with students to create a stronger technical community and provide opportunities for practical learning, collaboration, and peer development. My work has continued through Women Techmakers Ethiopia, where I contribute to building an inclusive technology community and creating spaces for people to learn and connect.
 
-I have also led and facilitated **Google Cloud workshops**, helping learners build practical cloud skills. Some of the people I trained later went on to become trainers themselves, which is one of the parts of community work I value most: seeing knowledge continue beyond the person who originally taught it.
+I also collaborate with **local universities and colleges** to bring technology education and community initiatives closer to students. These collaborations have allowed me to take workshops, mentorship, AI education, and hands-on technical experiences directly into academic communities.
 
-My community work has also included **AI education and mentorship**. I facilitated Experience AI, an educational program introducing young learners to artificial intelligence and machine learning, and have continued supporting learners through technical workshops and community initiatives.
+One of the initiatives I am particularly proud of is my continued work with **Women Techmakers Ethiopia's annual International Women's Day celebrations**. Rather than being a one-time event, this has become an ongoing part of my community leadership. In 2026 alone, I helped organize **multiple editions**, bringing together students, developers, educators, and technology professionals through workshops, discussions, networking, and hands-on activities.
 
-In 2026, I co-organized the **Women Techmakers Ethiopia International Women's Day celebration**, bringing together **200+ attendees** for hands-on workshops, a panel discussion, and an AI-powered hackathon focused on practical skills and execution.
+In addition to organizing these events, I have facilitated **AI and machine-learning education**, including Experience AI initiatives, and have worked with learners to make emerging technologies more approachable and practical.
 
-I've also served as a **hackathon judge, technical workshop facilitator, panel speaker, mentor, and community organizer** across different technology initiatives.
+I have also served as a **hackathon judge, technical workshop facilitator, panel speaker, mentor, and community organizer**, while continuing to learn alongside the communities I support.
 
 For me, community leadership is not separate from engineering. **Building technology and helping people learn to build technology are part of the same work.**
 
