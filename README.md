@@ -2,6 +2,8 @@
 
 ### Software Engineer | AI Builder | Full-Stack Developer | Community Leader
 
+**Software Engineer: Full-Stack Development & AI-Powered Solutions**
+
 I build software that turns complex problems into practical, usable products.
 
 My work sits at the intersection of **software engineering, artificial intelligence, community building, and product development**. I work across the stack, from designing interfaces and APIs to building AI-powered systems and deploying production applications.
@@ -12,78 +14,54 @@ I’m particularly interested in using technology not only to build useful produ
 
 ## What I Work With
 
-**Languages**
+| **Languages**           | **Frontend**              |
+| :---------------------- | :------------------------ |
+| JavaScript / TypeScript | React                     |
+| Python                  | Next.js                   |
+| HTML / CSS              | WordPress                 |
+|                         | Responsive UI development |
 
-* JavaScript / TypeScript
-* Python
-* HTML / CSS
+| **Backend & Databases** | **AI & Data**               |
+| :---------------------- | :-------------------------- |
+| Node.js                 | Generative AI               |
+| REST APIs               | RAG systems                 |
+| PostgreSQL              | AI agents                   |
+| Supabase                | Computer Vision             |
+| Prisma                  | AI-powered automation       |
+|                         | LLM application development |
 
-**Frontend**
-
-* React
-* Next.js
-* WordPress
-* Responsive UI development
-
-**Backend & Databases**
-
-* Node.js
-* REST APIs
-* PostgreSQL
-* Supabase
-* Prisma
-
-**AI & Data**
-
-* Generative AI
-* RAG systems
-* AI agents
-* Computer Vision
-* AI-powered automation
-* LLM application development
-
-**Cloud & DevOps**
-
-* AWS
-* Vercel
-* Git / GitHub
-* CI/CD
-* Linux
+| **Cloud & DevOps** |        |
+| :----------------- | :----- |
+| AWS                | Vercel |
+| Git / GitHub       | CI/CD  |
+| Linux              |        |
 
 ---
 
 ## Selected Work
 
-### VentureApply AI
+| **Project**         | **Description**                                                                                                                  |
+| :------------------ | :------------------------------------------------------------------------------------------------------------------------------- |
+| **VentureApply AI** | An AI-powered job application co-pilot designed to help candidates analyze opportunities and improve their application workflow. |
+| **FUNDFLOW**        | An AI-powered financial workflow platform focused on helping businesses organize and analyze financial information.              |
+| **SiteForge AI**    | An AI-powered system for transforming existing website templates into customized, client-ready websites.                         |
 
-An AI-powered job application co-pilot designed to help candidates analyze opportunities and improve their application workflow.
+**VentureApply AI**
+`TypeScript` `AI/LLMs` `Next.js`
 
-**Stack:** TypeScript, AI/LLMs, Next.js
+**FUNDFLOW**
+`Next.js` `TypeScript` `Supabase` `AI`
 
-### FUNDFLOW
-
-An AI-powered financial workflow platform focused on helping businesses organize and analyze financial information.
-
-**Stack:** Next.js, TypeScript, Supabase, AI
-
-### SiteForge AI
-
-An AI-powered system for transforming existing website templates into customized, client-ready websites.
-
-**Focus:** AI content generation, Elementor automation, template processing, visual QA
+**SiteForge AI**
+`AI content generation` `Elementor automation` `Template processing` `Visual QA`
 
 ---
 
 ## Engineering Interests
 
-* AI agents and agentic workflows
-* Retrieval-Augmented Generation
-* AI-assisted software development
-* Cloud architecture
-* Developer tools
-* Automation
-* Scalable web applications
-* Human-centered AI
+`AI Agents` · `Agentic Workflows` · `RAG` · `AI-Assisted Development` · `Cloud Architecture`
+
+`Developer Tools` · `Automation` · `Scalable Web Applications` · `Human-Centered AI`
 
 ---
 
@@ -111,22 +89,20 @@ For me, community leadership is not separate from engineering. **Building techno
 
 ## Currently
 
-* Building AI-powered products
-* Exploring cloud architecture and AWS
-* Working with RAG and agentic AI systems
-* Experimenting with AI developer tools
-* Deepening my understanding of machine learning
-* Learning through programs such as the **Cohere Labs ML Summer School**
-* Mentoring and supporting developers and aspiring technologists
-* Contributing to technology communities in Ethiopia
+|                                                                |                                                                        |
+| :------------------------------------------------------------- | :--------------------------------------------------------------------- |
+| Building AI-powered products                                   | Exploring cloud architecture and AWS                                   |
+| Working with RAG and agentic AI systems                        | Experimenting with AI developer tools                                  |
+| Deepening my understanding of machine learning                 | Learning through programs such as the **Cohere Labs ML Summer School** |
+| Mentoring and supporting developers and aspiring technologists | Contributing to technology communities in Ethiopia                     |
 
 ---
 
 ## Connect
 
-* Website: [beteladdisu.com](https://beteladdisu.pro.et/)
-* LinkedIn: [Betel Addisu](https://www.linkedin.com/in/beteladdisu/)
-* GitHub: [@BetelAddisu](https://github.com/BetelAddisu)
+**Website** · [beteladdisu.pro.et](https://beteladdisu.pro.et/)
+**LinkedIn** · [Betel Addisu](https://www.linkedin.com/in/beteladdisu/)
+**GitHub** · [@BetelAddisu](https://github.com/BetelAddisu/)
 
 ---
 
