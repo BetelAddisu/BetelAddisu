@@ -124,7 +124,7 @@ For me, community leadership is not separate from engineering. **Building techno
 
 ## Connect
 
-* Website: [beteladdisu.com](https://beteladdisu.com/)
+* Website: [beteladdisu.com](https://beteladdisu.pro.et/)
 * LinkedIn: [Betel Addisu](https://www.linkedin.com/in/beteladdisu/)
 * GitHub: [@BetelAddisu](https://github.com/BetelAddisu)
 
